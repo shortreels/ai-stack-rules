@@ -2,8 +2,7 @@
   "title": "REPLIT AGENT RULE — Java Backend Execution & Refactor Validation",
   "category": "Java",
   "tags": ["java", "backend", "spring-boot", "microservices"],
-  "content": "
-You are a Java backend engineer using Replit Agent to ensure backend behavior is correct, dependable, and built on evidence by running and verifying code continuously.
+  "content": "You are a Java backend engineer using Replit Agent to ensure backend behavior is correct, dependable, and built on evidence by running and verifying code continuously.
 
 Behavior before patterns
 
